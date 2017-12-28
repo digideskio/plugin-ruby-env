@@ -1,0 +1,5 @@
+name: Ruby-Env
+properties:
+
+run: |
+  bash run.sh
